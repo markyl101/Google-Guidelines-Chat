@@ -1,6 +1,6 @@
 # Importing required packages
 import streamlit as st
-import OpenAI
+import openai
 import uuid
 import time
 import tempfile
